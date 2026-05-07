@@ -1,16 +1,26 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  PATRICK EVA — DEVELOPER PROFILE v2.0                  ║ -->
+<!-- ║                  PATRICK EVA — DEVELOPER PROFILE v3.0                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ====== TECH HEADER — CYLINDER STYLE, NEON GRADIENT ====== -->
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,40:1e3a8a,100:06b6d4&height=170&section=header&text=%3C%20Patrick.Eva%20%2F%3E&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=52&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descSize=18&descAlignY=80&descAlign=50" width="100%"/></a>
+<!-- ====== TOP TECH BANNER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Patrick%20Eva&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=20&descAlignY=62" width="100%" />
 
-<!-- ====== TYPING SVG — LEFT-ALIGNED, NEW CONTENT ====== -->
+<!-- ====== ANIMATED NAME (BACKUP — always visible even if banner breaks) ====== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=06B6D4&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Patrick+Eva">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=1E3A8A&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Patrick+Eva" alt="Hi, I'm Patrick Eva" />
+</picture>
+
+### `<` Software Engineer / Web Developer `/>` &nbsp;·&nbsp; 🇵🇭 Philippines
+
+<!-- ====== TYPING SVG ROLE ANIMATION ====== -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=06B6D4&width=820&lines=%24+initializing+developer.exe...;%E2%96%B6+Software+Engineer+building+robust+systems;%E2%96%B6+Full-Stack+Web+Developer;%E2%96%B6+Crafting+clean%2C+scalable+code;%E2%96%B6+Always+iterating%2C+always+shipping" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=06B6D4&width=820&lines=%24+initializing+developer.exe...;%E2%96%B6+Building+modern+web+applications;%E2%96%B6+Crafting+clean%2C+scalable+systems;%E2%96%B6+Engineering+full-stack+solutions;%E2%96%B6+Always+iterating%2C+always+shipping" alt="Typing animation" />
 </a>
 
-<!-- ====== BADGES + STATS — INLINE, LEFT-ALIGNED ====== -->
+<!-- ====== BADGES + STATS — INLINE LEFT ====== -->
 
 ![Open](https://img.shields.io/badge/-OPEN_TO_OPPORTUNITIES-00ff88?style=flat-square&logo=hackthebox&logoColor=black&labelColor=0d1117)
 ![Student](https://img.shields.io/badge/-CS_STUDENT_%40_NU-3b82f6?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0d1117)
@@ -20,8 +30,11 @@
 
 <br/>
 
+<!-- ====== TECH DIVIDER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
+
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          ABOUT — TWO-COLUMN PANEL                      ║ -->
+<!-- ║                       ABOUT — TWO-COLUMN PANEL                         ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 ## ⚡ `> sudo whoami`
@@ -53,7 +66,7 @@ mission:
 
 links:
   portfolio : ptrkportfolio.vercel.app
-  github    : @patrickeva
+  github    : "@patrickeva"
 ```
 
 </td>
@@ -92,10 +105,11 @@ links:
 </tr>
 </table>
 
----
+<!-- ====== TECH DIVIDER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         TECH STACK (SIMPLIFIED)                        ║ -->
+<!-- ║                              TECH STACK                                ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 ## 🧩 Tech Stack
@@ -121,54 +135,57 @@ links:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+<!-- ====== TECH DIVIDER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ====== FEATURED PROJECTS — TO BE FILLED ====== -->
-
 <!--
   📌 PLACEHOLDER:
-  Send me your project details (name, short description, GitHub link,
-  live link, screenshot URL, tech used) at I'll add them here in card style.
+  Send project details (name, description, GitHub link, live link,
+  screenshot, tech) and I'll add them here in card style.
 -->
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          GITHUB ANALYTICS                              ║ -->
+<!-- ║                         GITHUB ANALYTICS (FIXED)                       ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickeva&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="170" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&langs_count=8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=patrickeva&hide_border=true&background=0D1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="170" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&hide_border=true&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d4" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&langs_count=8" height="160" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&hide_border=true&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d4" width="95%" alt="Activity Graph" />
 
 </div>
 
----
+<!-- ====== TECH DIVIDER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ====== TROPHIES ====== -->
 
 ## 🏆 Achievements
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=patrickeva&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=patrickeva&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </div>
 
----
+<!-- ====== TECH DIVIDER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                            CONNECT — LEFT ALIGNED                      ║ -->
+<!-- ║                                CONNECT                                 ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-## 🔗 Connect
+## 🔗 Connect with Me
 
 ```bash
 $ contact patrick --where
@@ -179,9 +196,22 @@ $ contact patrick --where
 <a href="https://facebook.com/ptrkrmseva"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=06b6d4" /></a>
 <a href="https://instagram.com/_ptrkeva"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=06b6d4" /></a>
 
----
+<!-- ====== INSPIRATIONAL QUOTE ====== -->
+
+<br/>
+
+<details>
+<summary><b>💡 &nbsp; Random Dev Quote</b></summary>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+
+</details>
 
 <!-- ====== FOOTER ====== -->
+
+<br/>
 
 <div align="center">
 
@@ -190,8 +220,10 @@ $ contact patrick --where
 ! always shipping, never stopping
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:06b6d4,50:1e3a8a,100:0f172a&height=80&section=footer" width="100%"/>
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+
+<div align="center">
 <sub>⚡ <i>built with caffeine, code, and curiosity by</i> <a href="https://github.com/patrickeva"><b>@patrickeva</b></a></sub>
-
 </div>
