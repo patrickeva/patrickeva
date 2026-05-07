@@ -24,7 +24,7 @@
 
 ![Open](https://img.shields.io/badge/-OPEN_TO_OPPORTUNITIES-00ff88?style=flat-square&logo=hackthebox&logoColor=black&labelColor=0d1117)
 ![Student](https://img.shields.io/badge/-CS_STUDENT_%40_NU-3b82f6?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0d1117)
-![Location](https://img.shields.io/badge/-Cuenca Batangas_%E2%80%A2_PH-f59e0b?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117)
+![Location](https://img.shields.io/badge/-BTG_%E2%80%A2_PH-f59e0b?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117)
 ![Visitors](https://komarev.com/ghpvc/?username=patrickeva&label=visitors&color=06b6d4&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/patrickeva?label=followers&style=flat-square&color=06b6d4&labelColor=0d1117)
 
