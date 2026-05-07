@@ -37,7 +37,7 @@
 <!-- ║                       ABOUT — TWO-COLUMN PANEL                         ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-## ⚡ `> sudo whoami`
+## ⚡ `> Hello!`
 
 <table>
 <tr>
@@ -47,17 +47,15 @@
 # ─── developer.config ───────────────────
 identity:
   name      : Patrick Eva
-  alias     : ptrkeva
-  pronouns  : he/him
   location  : Manila, Philippines 🇵🇭
 
 role:
-  primary   : 💻 Software Engineer
-  secondary : 🌐 Web Developer
+  primary   : 🌐 Web Developer
+  secondary : 💻 Software Engineer
 
 education:
   school    : National University
-  major     : Computer Science
+  major     : Bachelor of Science in Computer Science
 
 mission:
   - Build modern, scalable web applications
