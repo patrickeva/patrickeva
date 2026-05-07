@@ -1,18 +1,17 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  PATRICK EVA — DEVELOPER PROFILE v3.0                  ║ -->
+<!-- ║                  PATRICK EVA — DEVELOPER PROFILE v4.0                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ====== TOP TECH BANNER ====== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Patrick%20Eva&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=20&descAlignY=62" width="100%" />
 
-<!-- ====== ANIMATED NAME (BACKUP — always visible even if banner breaks) ====== -->
+<!-- ====== ANIMATED NAME ====== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=06B6D4&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Patrick+Eva">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=1E3A8A&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Patrick+Eva" alt="Hi, I'm Patrick Eva" />
-</picture>
+<a href="https://github.com/patrickeva">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=06B6D4&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Patrick+Eva" alt="Hi, I'm Patrick Eva" />
+</a>
 
-### `<` Software Engineer / Web Developer `/>` &nbsp;·&nbsp; 🇵🇭 Philippines
+### `<` Web Developer / Software Engineer `/>` &nbsp;·&nbsp; Philippines
 
 <!-- ====== TYPING SVG ROLE ANIMATION ====== -->
 
@@ -20,24 +19,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=06B6D4&width=820&lines=%24+initializing+developer.exe...;%E2%96%B6+Building+modern+web+applications;%E2%96%B6+Crafting+clean%2C+scalable+systems;%E2%96%B6+Engineering+full-stack+solutions;%E2%96%B6+Always+iterating%2C+always+shipping" alt="Typing animation" />
 </a>
 
-<!-- ====== BADGES + STATS — INLINE LEFT ====== -->
+<!-- ====== BADGES + STATS ====== -->
 
 ![Open](https://img.shields.io/badge/-OPEN_TO_OPPORTUNITIES-00ff88?style=flat-square&logo=hackthebox&logoColor=black&labelColor=0d1117)
 ![Student](https://img.shields.io/badge/-CS_STUDENT_%40_NU-3b82f6?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0d1117)
-![Location](https://img.shields.io/badge/-BTG_%E2%80%A2_PH-f59e0b?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117)
+![Location](https://img.shields.io/badge/-MNL_%E2%80%A2_PH-f59e0b?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117)
 ![Visitors](https://komarev.com/ghpvc/?username=patrickeva&label=visitors&color=06b6d4&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/patrickeva?label=followers&style=flat-square&color=06b6d4&labelColor=0d1117)
 
 <br/>
 
-<!-- ====== TECH DIVIDER ====== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       ABOUT — TWO-COLUMN PANEL                         ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-## ⚡ `> Hello!`
+## ⚡ `> Hi!`
 
 <table>
 <tr>
@@ -47,7 +45,7 @@
 # ─── developer.config ───────────────────
 identity:
   name      : Patrick Eva
-  location  : Manila, Philippines 🇵🇭
+  location  : Cuenca Batangas, Philippines 
 
 role:
   primary   : 🌐 Web Developer
@@ -55,7 +53,7 @@ role:
 
 education:
   school    : National University
-  major     : Bachelor of Science in Computer Science
+  major     : Computer Science
 
 mission:
   - Build modern, scalable web applications
@@ -103,7 +101,6 @@ links:
 </tr>
 </table>
 
-<!-- ====== TECH DIVIDER ====== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
@@ -125,58 +122,178 @@ links:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<!-- ====== TECH DIVIDER ====== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
-<!-- ====== FEATURED PROJECTS — TO BE FILLED ====== -->
-<!--
-  📌 PLACEHOLDER:
-  Send project details (name, description, GitHub link, live link,
-  screenshot, tech) and I'll add them here in card style.
--->
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          FEATURED PROJECTS                             ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚖 Tricycle Franchise Tracker
+**Real-Time Monitoring of Driver Franchises and Licenses**
+
+A web-based system for managing the issuance, renewal, and monitoring of tricycle franchises.
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/Tric-Franchise-Tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Cuenca Legislative Tracker
+**Sangguniang Bayan Legislative Tracker**
+
+A centralized digital platform for tracking ordinances and resolutions, featuring secure cloud storage and automated status monitoring to enhance municipal transparency.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/sb-cuenca-docsys)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 NPK Deficiency Detector
+**Bitter Gourd Leaf Disease CNN Model**
+
+A Deep Learning CNN model that distinguishes between Healthy, Nitrogen, Phosphorus, and Potassium deficient bitter gourd plants.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-FF6F61?style=flat-square)
+
+[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT)
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Leaf it Up to Me
+**Coffee Leaf Disease Detector**
+
+A web application designed to detect coffee leaf diseases using a Convolutional Neural Network (CNN) based on MobileNetV2 architecture.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/-MobileNetV2-FF6F61?style=flat-square)
+
+[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 ptrk_portfolio
+**Personal Portfolio Website**
+
+*"Create like a pro. Turn your dreams into reality."* A personal portfolio showcasing projects, skills, and experience.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/ptrk_portfolio)
+[<img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://ptrkportfolio.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 NU Lipa Admission System
+**AI-Powered Admission System**
+
+A Django-based student admission system for NU Lipa, allowing student registration, admin management, and future ML integration for processing applications.
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/NU_Admission)
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+[<img src="https://img.shields.io/badge/-View_All_Repositories-06b6d4?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva?tab=repositories)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         GITHUB ANALYTICS (FIXED)                       ║ -->
+<!-- ║                          GITHUB ANALYTICS                              ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff" height="170" alt="GitHub Stats" />
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=patrickeva&hide_border=true&background=0D1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="170" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&langs_count=8" height="160" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&hide_border=true&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d4" width="95%" alt="Activity Graph" />
+<a href="https://github.com/patrickeva">
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff&ring_color=8b5cf6" height="180" alt="Patrick's GitHub Stats" />
+</a>
+<a href="https://github.com/patrickeva">
+  <img src="https://streak-stats.demolab.com?user=patrickeva&hide_border=true&background=0D1117&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=06b6d4" height="180" alt="GitHub Streak" />
+</a>
 
 </div>
 
-<!-- ====== TECH DIVIDER ====== -->
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/patrickeva">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&hide_border=true&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d4" width="98%" alt="Activity Graph" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ====== TROPHIES ====== -->
 
 ## 🏆 Achievements
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=patrickeva&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+<div align="center">
+  <a href="https://github.com/patrickeva">
+    <img src="https://github-profile-trophy.vercel.app/?username=patrickeva&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+  </a>
 </div>
 
-<!-- ====== TECH DIVIDER ====== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
@@ -193,8 +310,6 @@ $ contact patrick --where
 <a href="https://github.com/patrickeva"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=06b6d4" /></a>
 <a href="https://facebook.com/ptrkrmseva"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=06b6d4" /></a>
 <a href="https://instagram.com/_ptrkeva"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=06b6d4" /></a>
-
-<!-- ====== INSPIRATIONAL QUOTE ====== -->
 
 <br/>
 
