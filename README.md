@@ -1,9 +1,9 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  PATRICK EVA — DEVELOPER PROFILE v4.0                  ║ -->
+<!-- ║                  PATRICK EVA — DEVELOPER PROFILE v5.0                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ====== TOP TECH BANNER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Patrick%20Eva&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=20&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Patrick%20Eva&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=20&descAlignY=62" width="100%" />
 
 <!-- ====== ANIMATED NAME ====== -->
 
@@ -45,7 +45,7 @@
 # ─── developer.config ───────────────────
 identity:
   name      : Patrick Eva
-  location  : Cuenca Batangas, Philippines 
+  location  : Cuenca Batangas, Philippines
 
 role:
   primary   : 🌐 Web Developer
@@ -136,7 +136,7 @@ links:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          FEATURED PROJECTS                             ║ -->
+<!-- ║              FEATURED PROJECTS — WITH REPO PREVIEW IMAGES              ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 ## 🚀 Featured Projects
@@ -144,6 +144,10 @@ links:
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/patrickeva/Tric-Franchise-Tracker">
+  <img src="https://opengraph.githubassets.com/1/patrickeva/Tric-Franchise-Tracker" width="100%" alt="Tricycle Franchise Tracker" />
+</a>
 
 ### 🚖 Tricycle Franchise Tracker
 **Real-Time Monitoring of Driver Franchises and Licenses**
@@ -154,10 +158,14 @@ A web-based system for managing the issuance, renewal, and monitoring of tricycl
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/Tric-Franchise-Tracker)
+<a href="https://github.com/patrickeva/Tric-Franchise-Tracker"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/patrickeva/sb-cuenca-docsys">
+  <img src="https://opengraph.githubassets.com/1/patrickeva/sb-cuenca-docsys" width="100%" alt="Cuenca Legislative Tracker" />
+</a>
 
 ### 📜 Cuenca Legislative Tracker
 **Sangguniang Bayan Legislative Tracker**
@@ -169,12 +177,16 @@ A centralized digital platform for tracking ordinances and resolutions, featurin
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/sb-cuenca-docsys)
+<a href="https://github.com/patrickeva/sb-cuenca-docsys"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT">
+  <img src="https://opengraph.githubassets.com/1/itzjmbruhhh/NPK_Deficiency_Classifier_IoT" width="100%" alt="NPK Deficiency Detector" />
+</a>
 
 ### 🌱 NPK Deficiency Detector
 **Bitter Gourd Leaf Disease CNN Model**
@@ -186,10 +198,14 @@ A Deep Learning CNN model that distinguishes between Healthy, Nitrogen, Phosphor
 ![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![CNN](https://img.shields.io/badge/-CNN-FF6F61?style=flat-square)
 
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT)
+<a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier">
+  <img src="https://opengraph.githubassets.com/1/itzjmbruhhh/coffee_leaf_diseases_classifier" width="100%" alt="Coffee Leaf Disease Detector" />
+</a>
 
 ### ☕ Leaf it Up to Me
 **Coffee Leaf Disease Detector**
@@ -200,12 +216,16 @@ A web application designed to detect coffee leaf diseases using a Convolutional 
 ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![MobileNetV2](https://img.shields.io/badge/-MobileNetV2-FF6F61?style=flat-square)
 
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier)
+<a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/patrickeva/ptrk_portfolio">
+  <img src="https://opengraph.githubassets.com/1/patrickeva/ptrk_portfolio" width="100%" alt="ptrk_portfolio" />
+</a>
 
 ### 💼 ptrk_portfolio
 **Personal Portfolio Website**
@@ -217,11 +237,15 @@ A web application designed to detect coffee leaf diseases using a Convolutional 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/ptrk_portfolio)
-[<img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://ptrkportfolio.vercel.app/)
+<a href="https://github.com/patrickeva/ptrk_portfolio"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ptrkportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/itzjmbruhhh/NU_Admission">
+  <img src="https://opengraph.githubassets.com/1/itzjmbruhhh/NU_Admission" width="100%" alt="NU Lipa Admission System" />
+</a>
 
 ### 🎓 NU Lipa Admission System
 **AI-Powered Admission System**
@@ -233,7 +257,7 @@ A Django-based student admission system for NU Lipa, allowing student registrati
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/NU_Admission)
+<a href="https://github.com/itzjmbruhhh/NU_Admission"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -241,14 +265,14 @@ A Django-based student admission system for NU Lipa, allowing student registrati
 
 <div align="right">
 
-[<img src="https://img.shields.io/badge/-View_All_Repositories-06b6d4?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva?tab=repositories)
+<a href="https://github.com/patrickeva?tab=repositories"><img src="https://img.shields.io/badge/-View_All_Repositories-06b6d4?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          GITHUB ANALYTICS                              ║ -->
+<!-- ║                    GITHUB ANALYTICS — FIXED (TOKYONIGHT)               ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 ## 📊 GitHub Analytics
@@ -256,10 +280,10 @@ A Django-based student admission system for NU Lipa, allowing student registrati
 <div align="center">
 
 <a href="https://github.com/patrickeva">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=ffffff&ring_color=8b5cf6" height="180" alt="Patrick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="Patrick's GitHub Stats" />
 </a>
 <a href="https://github.com/patrickeva">
-  <img src="https://streak-stats.demolab.com?user=patrickeva&hide_border=true&background=0D1117&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=06b6d4" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=patrickeva&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -269,7 +293,7 @@ A Django-based student admission system for NU Lipa, allowing student registrati
 <div align="center">
 
 <a href="https://github.com/patrickeva">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 </a>
 
 </div>
@@ -278,7 +302,7 @@ A Django-based student admission system for NU Lipa, allowing student registrati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&hide_border=true&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d4" width="98%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
 
 </div>
 
