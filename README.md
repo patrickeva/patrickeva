@@ -3,7 +3,7 @@
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ====== TOP TECH BANNER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Patrick%20Eva&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=20&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Patrick%20Eva&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%Software%20%20%E2%80%A2%20Web%20Developer&descSize=20&descAlignY=62" width="100%" />
 
 <!-- ====== ANIMATED NAME ====== -->
 
