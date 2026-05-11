@@ -285,20 +285,6 @@ A Django-based admission system for NU Lipa enabling student registration, admin
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrickeva&theme=tokyonight" height="180" alt="Most Commit Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrickeva&theme=tokyonight&utcOffset=8" height="180" alt="Productive Time" />
 
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
 > 💡 *To enable the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) workflow to your `patrickeva/patrickeva` profile repository.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
