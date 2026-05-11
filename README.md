@@ -343,8 +343,8 @@ $ contact patrick --where
 <div align="center">
 
 ```diff
-+ thanks for visiting my profile
-! always shipping, never stopping
+"Create like a pro
+Turn your dreams into reality"
 ```
 
 </div>
