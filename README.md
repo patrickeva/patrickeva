@@ -18,7 +18,7 @@
   <code>&lt;</code> <b>Software Engineer</b> <code>·</code> <b>Web Developer</b> <code>·</code> <b>CS Student</b> <code>/&gt;</code>
 </p>
 
-<sub>📍 Cuenca, Batangas · Philippines &nbsp;·&nbsp; 🌏 Open to Remote</sub>
+<sub>📍 Cuenca, Batangas · Philippines &nbsp;·&nbsp; 🌏 Open to Remote · Hybrid · On-site</sub>
 
 </div>
 
