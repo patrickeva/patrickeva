@@ -1,10 +1,10 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    PATRICK EVA · DEVELOPER PROFILE v5.0                    ║ -->
+<!-- ║                    PATRICK EVA · DEVELOPER PROFILE v5.1                    ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ══════════════════ HEADER BANNER ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=240&section=header&text=Patrick%20Eva&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%94%20Full%20Stack%20Web%20Developer&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=240&section=header&text=Patrick%20Eva&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%94%20Full%20Stack%20Web%20Developer&descSize=18&descAlignY=58" width="100%" alt="Header banner" />
 
 <!-- ══════════════════ ANIMATED INTRO ══════════════════ -->
 
@@ -40,7 +40,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          ABOUT — TWO-COLUMN PANEL                          ║ -->
@@ -116,7 +116,7 @@ links:
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                                TECH STACK                                  ║ -->
@@ -172,72 +172,7 @@ links:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                            GITHUB ANALYTICS                                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- ─── STATS + STREAK ─── -->
-<a href="https://github.com/patrickeva">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=patrickeva&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4" />
-</a>
-
-<br/>
-
-<!-- ─── TOP LANGUAGES ─── -->
-<a href="https://github.com/patrickeva">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=8" />
-</a>
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&theme=tokyo-night&bg_color=0d1117&color=06b6d4&line=8b5cf6&point=06b6d4&area=true&hide_border=true" width="98%" />
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> 💡 *To enable the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) workflow to your profile repository.*
-
-### 📌 Profile Summary
-
-<div align="center">
-
-<a href="https://github.com/patrickeva">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickeva&theme=tokyonight" width="98%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/patrickeva">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patrickeva&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrickeva&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrickeva&theme=tokyonight&utcOffset=8" height="180" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                            FEATURED PROJECTS                               ║ -->
@@ -257,6 +192,7 @@ A web-based system for managing the issuance, renewal, and monitoring of tricycl
 `PHP` `MySQL` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickeva/Tric-Franchise-Tracker)
+[![Demo](https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tric-franchise-tracker.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -269,6 +205,7 @@ A centralized digital platform for tracking ordinances and resolutions, featurin
 `React` `Firebase` `Supabase` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickeva/sb-cuenca-docsys)
+[![Demo](https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/patrickevas-projects/sb-cuenca-docsys)
 
 </td>
 </tr>
@@ -283,6 +220,7 @@ A Deep Learning model that distinguishes between Healthy, Nitrogen-, Phosphorus-
 `Python` `TensorFlow` `IoT` `CNN`
 
 [![Repo](https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT)
+[![Demo](https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://npknows.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -333,7 +271,66 @@ A Django-based admission system for NU Lipa enabling student registration, admin
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            GITHUB ANALYTICS                                ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- ─── STATS CARD + STREAK ─── -->
+
+<img height="180" alt="Patrick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img height="180" alt="Patrick's GitHub Streak" src="https://streak-stats.demolab.com?user=patrickeva&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<!-- ─── TOP LANGUAGES ─── -->
+
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Activity Graph" />
+
+</div>
+
+### 📌 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrickeva&theme=tokyonight" width="98%" alt="Profile Details" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patrickeva&theme=tokyonight" height="180" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrickeva&theme=tokyonight" height="180" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patrickeva&theme=tokyonight&utcOffset=8" height="180" alt="Productive Time" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/patrickeva/patrickeva/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> 💡 *To enable the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) workflow to your `patrickeva/patrickeva` profile repository.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                              ACHIEVEMENTS                                  ║ -->
@@ -349,7 +346,7 @@ A Django-based admission system for NU Lipa enabling student registration, admin
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                                CONNECT                                     ║ -->
@@ -364,10 +361,10 @@ $ contact patrick --where
 
 <div align="center">
 
-<a href="https://ptrkportfolio.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06b6d4" /></a>
-<a href="https://github.com/patrickeva"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=06b6d4" /></a>
-<a href="https://facebook.com/ptrkrmseva"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=06b6d4" /></a>
-<a href="https://instagram.com/_ptrkeva"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=06b6d4" /></a>
+<a href="https://ptrkportfolio.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06b6d4" alt="Portfolio" /></a>
+<a href="https://github.com/patrickeva"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=06b6d4" alt="GitHub" /></a>
+<a href="https://facebook.com/ptrkrmseva"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=06b6d4" alt="Facebook" /></a>
+<a href="https://instagram.com/_ptrkeva"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=06b6d4" alt="Instagram" /></a>
 
 </div>
 
@@ -379,7 +376,7 @@ $ contact patrick --where
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 </details>
@@ -397,7 +394,7 @@ $ contact patrick --where
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="Footer banner" />
 
 <div align="center">
 <sub>⚡ <i>built with caffeine, code, and curiosity by</i> <a href="https://github.com/patrickeva"><b>@patrickeva</b></a></sub>
