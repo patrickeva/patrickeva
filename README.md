@@ -1,310 +1,362 @@
+# 🚀 PROFESSIONAL GITHUB PROFILE README — UPGRADED VERSION
+
+````md
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  PATRICK EVA — DEVELOPER PROFILE v4.0                  ║ -->
+<!-- ║                    PATRICK EVA — ELITE DEV PROFILE                    ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ====== TOP TECH BANNER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Patrick%20Eva&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=20&descAlignY=62" width="100%" />
+<!-- ================= HERO SECTION ================= -->
 
-<!-- ====== ANIMATED NAME ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:1e3a8a,75:2563eb,100:06b6d4&text=Patrick%20Eva&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20•%20Software%20Engineer%20•%20AI%20Enthusiast&descSize=22&descAlignY=60" width="100%" />
 
-<a href="https://github.com/patrickeva">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1000&color=06B6D4&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Patrick+Eva" alt="Hi, I'm Patrick Eva" />
-</a>
+<div align="center">
 
-### `<` Web Developer / Software Engineer `/>` &nbsp;·&nbsp; Philippines
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Engineering+Scalable+Systems;Crafting+Clean+User+Experiences;AI+%2B+Full-Stack+Development;Always+Learning+%E2%80%A2+Always+Shipping" alt="Typing Animation" />
 
-<!-- ====== TYPING SVG ROLE ANIMATION ====== -->
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=06B6D4&width=820&lines=%24+initializing+developer.exe...;%E2%96%B6+Building+modern+web+applications;%E2%96%B6+Crafting+clean%2C+scalable+systems;%E2%96%B6+Engineering+full-stack+solutions;%E2%96%B6+Always+iterating%2C+always+shipping" alt="Typing animation" />
-</a>
+---
 
-<!-- ====== BADGES + STATS ====== -->
+# 💫 About Me
 
-![Open](https://img.shields.io/badge/-OPEN_TO_OPPORTUNITIES-00ff88?style=flat-square&logo=hackthebox&logoColor=black&labelColor=0d1117)
-![Student](https://img.shields.io/badge/-BSCS_%40_NU-3b82f6?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0d1117)
-![Location](https://img.shields.io/badge/-BTG_%E2%80%A2_PH-f59e0b?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117)
-![Visitors](https://komarev.com/ghpvc/?username=patrickeva&label=visitors&color=06b6d4&style=flat-square)
-![Followers](https://img.shields.io/github/followers/patrickeva?label=followers&style=flat-square&color=06b6d4&labelColor=0d1117)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       ABOUT — TWO-COLUMN PANEL                         ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
-
-## ⚡ `> About Me`
-
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t6Y3N0N2NnZjF6MnJqbjk3M2t3Y2s1NjlnbW9kbm91d3l0aXg2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
 ```yaml
-# ─── developer.config ───────────────────
-identity:
-  name      : Patrick Eva
-  location  : Cuenca Batangas, Philippines 
-
-role:
-  primary   : 🌐 Web Developer
-  secondary : 💻 Software Engineer
+name: Patrick Eva
+located_in: Batangas, Philippines
+current_focus:
+  - Full-Stack Web Development
+  - AI & Machine Learning Systems
+  - Government & Enterprise Solutions
+  - UI/UX Engineering
 
 education:
-  school    : National University
-  major     : Computer Science
+  university: National University
+  degree: Bachelor of Science in Computer Science
 
-mission:
-  - Build modern, scalable web applications
-  - Engineer clean, maintainable systems
-  - Ship real products that solve real problems
+currently_building:
+  - Legislative Tracking Systems
+  - Franchise Monitoring Platforms
+  - AI-Powered Detection Systems
+  - Modern Portfolio & Dashboard UIs
 
-links:
-  portfolio : ptrkportfolio.vercel.app
-  github    : "@patrickeva"
-```
+goals_2026:
+  - Build scalable SaaS products
+  - Master system architecture
+  - Contribute to impactful real-world systems
+  - Expand AI engineering expertise
+````
 
-</td>
-<td width="40%" valign="top">
+<br clear="right"/>
 
-<br/>
+---
 
-```diff
-@@ STATUS @@
-+ system        : online 🟢
-+ availability  : open
-+ mode          : building
-- limits        : none
-```
-
-<br/>
-
-```diff
-@@ NOW @@
-! crafting full-stack apps
-! sharpening JS + React
-! exploring system design
-```
-
-<br/>
-
-```diff
-@@ VIBE @@
-+ ☕ coffee
-+ 💻 keyboard
-+ 🎧 lo-fi
-= 🚀 ship it
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              TECH STACK                                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🧩 Tech Stack
-
-**`> Languages`**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**`> Frameworks & Tools`**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          FEATURED PROJECTS                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚖 Tricycle Franchise Tracker
-**Real-Time Monitoring of Driver Franchises and Licenses**
-
-A web-based system for managing the issuance, renewal, and monitoring of tricycle franchises.
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/Tric-Franchise-Tracker)
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Cuenca Legislative Tracker
-**Sangguniang Bayan Legislative Tracker**
-
-A centralized digital platform for tracking ordinances and resolutions, featuring secure cloud storage and automated status monitoring to enhance municipal transparency.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/sb-cuenca-docsys)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 NPK Deficiency Detector
-**Bitter Gourd Leaf Disease CNN Model**
-
-A Deep Learning CNN model that distinguishes between Healthy, Nitrogen, Phosphorus, and Potassium deficient bitter gourd plants.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN-FF6F61?style=flat-square)
-
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT)
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Leaf it Up to Me
-**Coffee Leaf Disease Detector**
-
-A web application designed to detect coffee leaf diseases using a Convolutional Neural Network (CNN) based on MobileNetV2 architecture.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/-MobileNetV2-FF6F61?style=flat-square)
-
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 ptrk_portfolio
-**Personal Portfolio Website**
-
-*"Create like a pro. Turn your dreams into reality."* A personal portfolio showcasing projects, skills, and experience.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva/ptrk_portfolio)
-[<img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://ptrkportfolio.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 NU Lipa Admission System
-**AI-Powered Admission System**
-
-A Django-based student admission system for NU Lipa, allowing student registration, admin management, and future ML integration for processing applications.
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-[<img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itzjmbruhhh/NU_Admission)
-
-</td>
-</tr>
-</table>
-
-<div align="right">
-
-[<img src="https://img.shields.io/badge/-View_All_Repositories-06b6d4?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/patrickeva?tab=repositories)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          GITHUB ANALYTICS                              ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
-
-
-<!-- ====== TROPHIES ====== -->
-
-## 🏆 Achievements
+# ⚡ Professional Highlights
 
 <div align="center">
-  <a href="https://github.com/patrickeva">
-    <img src="https://github-profile-trophy.vercel.app/?username=patrickeva&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-  </a>
+
+| 🚀 Development           | 🧠 AI Engineering   | 🎨 UI/UX Design       | ☁️ Deployment      |
+| ------------------------ | ------------------- | --------------------- | ------------------ |
+| Full-Stack Systems       | CNN / Deep Learning | Modern Dashboards     | Vercel / Firebase  |
+| Government Platforms     | TensorFlow Projects | Responsive Layouts    | Supabase / MySQL   |
+| Admin Management Systems | Computer Vision     | Premium UI Components | Cloud Integrations |
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" />
+---
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                                CONNECT                                 ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
+# 🛠️ Tech Arsenal
 
-## 🔗 Connect with Me
+## 👨‍💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,php,cpp,html,css" />
+</p>
+
+## ⚙️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,tailwind,firebase,supabase,tensorflow" />
+</p>
+
+## 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚖 Tricycle Franchise Tracker
+
+> A modern franchise management and monitoring platform designed for local government units to simplify franchise renewal, driver monitoring, and document processing.
+
+### ✨ Features
+
+* Driver & franchise management
+* Expiration notification system
+* Real-time status monitoring
+* Admin dashboard analytics
+* Document tracking & verification
+
+### 🛠️ Built With
+
+`PHP` `JavaScript` `MySQL` `Bootstrap`
+
+🔗 Repository: [https://github.com/patrickeva/Tric-Franchise-Tracker](https://github.com/patrickeva/Tric-Franchise-Tracker)
+
+---
+
+## 📜 Legislative Tracking System
+
+> A centralized legislative management platform for tracking ordinances, resolutions, and municipal documents with transparency-focused workflows.
+
+### ✨ Features
+
+* Ordinance & resolution tracking
+* Automated document workflow
+* Cloud-based file storage
+* Role-based access control
+* Search & filtering system
+
+### 🛠️ Built With
+
+`React` `Firebase` `Supabase` `JavaScript`
+
+🔗 Repository: [https://github.com/patrickeva/sb-cuenca-docsys](https://github.com/patrickeva/sb-cuenca-docsys)
+
+---
+
+## 🌱 NPK Deficiency Detector
+
+> AI-powered agricultural detection system that identifies nutrient deficiencies in bitter gourd leaves using Convolutional Neural Networks.
+
+### ✨ Features
+
+* CNN image classification
+* IoT integration
+* Real-time prediction
+* Smart agriculture support
+* Nutrient deficiency analysis
+
+### 🛠️ Built With
+
+`Python` `TensorFlow` `CNN` `IoT`
+
+🔗 Repository: [https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT](https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT)
+
+---
+
+## ☕ Coffee Leaf Disease Detector
+
+> A deep learning web application powered by MobileNetV2 for detecting coffee leaf diseases using image classification.
+
+### ✨ Features
+
+* MobileNetV2 architecture
+* Disease classification system
+* AI-powered predictions
+* Image processing pipeline
+* Smart agricultural analytics
+
+### 🛠️ Built With
+
+`Python` `TensorFlow` `MobileNetV2`
+
+🔗 Repository: [https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier](https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier)
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=patrickeva&theme=tokyonight&row=1&column=7&margin-w=10&no-frame=true&no-bg=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Metrics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=patrickeva&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://ptrkportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/patrickeva">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://facebook.com/ptrkrmseva">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/_ptrkeva">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```diff
++ Building enterprise-grade systems
++ Improving AI & machine learning projects
++ Developing premium UI/UX experiences
++ Expanding full-stack engineering skills
++ Contributing to impactful real-world solutions
+```
+
+---
+
+# ☕ Developer Mindset
+
+<div align="center">
 
 ```bash
-$ contact patrick --where
-```
-
-<a href="https://ptrkportfolio.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06b6d4" /></a>
-<a href="https://github.com/patrickeva"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=06b6d4" /></a>
-<a href="https://facebook.com/ptrkrmseva"><img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=06b6d4" /></a>
-<a href="https://instagram.com/_ptrkeva"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=06b6d4" /></a>
-
-<br/>
-
-<details>
-<summary><b>💡 &nbsp; Random Dev Quote</b></summary>
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-
-</details>
-
-<!-- ====== FOOTER ====== -->
-
-<br/>
-
-<div align="center">
-
-```diff
-+ thanks for visiting my profile
-! always shipping, never stopping
+while(alive) {
+  eat();
+  code();
+  build();
+  learn();
+  ship();
+  repeat();
+}
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+---
 
 <div align="center">
-<sub>⚡ <i>built with caffeine, code, and curiosity by</i> <a href="https://github.com/patrickeva"><b>@patrickeva</b></a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:1e3a8a,100:020617" width="100%" />
+
+### ⚡ "Build systems that matter."
+
+<sub>Designed & Engineered by <b>Patrick Eva</b></sub>
+
 </div>
+```
+
+---
+
+# 🔥 MGA DINAGDAG NA PROFESSIONAL FEATURES
+
+✅ GitHub Stats Dashboard
+✅ Contribution Graph
+✅ GitHub Streak Stats
+✅ Professional Layout
+✅ Cleaner Sections
+✅ Better Project Presentation
+✅ Modern Developer Branding
+✅ Enterprise-Level Styling
+✅ Tech Arsenal Section
+✅ Animated Typing Effects
+✅ More Recruiter-Friendly Format
+✅ Better Visual Hierarchy
+✅ Cleaner Spacing & Readability
+
+---
+
+# 💡 ACTUAL LOOK / OUTPUT STYLE
+
+## TOP SECTION
+
+* Animated blue gradient header
+* Large animated typing text
+* Professional software engineer branding
+* Modern developer aesthetic
+
+## MIDDLE SECTION
+
+* Clean GitHub analytics dashboard
+* Animated contribution graph
+* Organized tech stack icons
+* Premium project cards layout
+
+## BOTTOM SECTION
+
+* Professional contact buttons
+* Developer mindset section
+* Modern footer wave animation
+
+---
+
+# 📌 OPTIONAL FEATURES YOU CAN STILL ADD
+
+## 🔥 Advanced Additions
+
+### 🐍 Contribution Snake Animation
+
+```md
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+```
+
+---
+
+### 🎵 Spotify Playing Widget
+
+```md
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_ID)]
+```
+
+---
+
+### ☁️ Visitor Counter
+
+```md
+![](https://komarev.com/ghpvc/?username=patrickeva&color=blueviolet)
+```
+
+---
+
+### 📌 Pinned Dev Quote
+
+```md
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+```
+
+---
+
+# 🏆 RESULT
+
+Ito na yung klase ng GitHub profile na:
+
+* Mukhang premium
+* Recruiter friendly
+* Modern developer branding
+* Professional portfolio feel
+* Mas may dating sa employers & clients
+* Mas clean at organized tignan
+* Mas mataas ang visual impact
