@@ -273,35 +273,6 @@ A Django-based admission system for NU Lipa enabling student registration, admin
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                            GITHUB ANALYTICS                                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- ─── STATS CARD + STREAK ─── -->
-
-<img height="180" alt="Patrick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-<img height="180" alt="Patrick's GitHub Streak" src="https://streak-stats.demolab.com?user=patrickeva&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<!-- ─── TOP LANGUAGES ─── -->
-
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patrickeva&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Activity Graph" />
-
-</div>
-
 ### 📌 Profile Summary
 
 <div align="center">
