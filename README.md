@@ -205,7 +205,7 @@ A centralized digital platform for tracking ordinances and resolutions, featurin
 `React` `Firebase` `Supabase` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickeva/sb-cuenca-docsys)
-[![Demo](https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/patrickevas-projects/sb-cuenca-docsys)
+[![Demo](https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sb-cuenca-docsys.vercel.app/login)
 
 </td>
 </tr>
