@@ -289,6 +289,8 @@ A Django-based admission system for NU Lipa enabling student registration, admin
 <!-- ║                              ACHIEVEMENTS                                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:06b6d4&height=2" width="100%" alt="divider" />
+
 ## 🏆 Achievements
 
 <div align="center">
