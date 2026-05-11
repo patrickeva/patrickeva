@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/-OPEN_TO_OPPORTUNITIES-00ff88?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117)
+![Open to Work](https://img.shields.io/badge/-OPEN_TO_WORK-00ff88?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117)
 ![Student](https://img.shields.io/badge/-BSCS_%40_NU-3b82f6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/-BATANGAS_%E2%80%A2_PH-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
 
