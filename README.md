@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🎓 BS Computer Science student at National University
+- 🎓 BS Computer Science gradute at National University
 - 💻 Focused on React, Django, and AI/ML
 - 🚀 Building full-stack applications and exploring system design
 - 🌱 Currently sharpening skills in clean architecture and scalable systems
