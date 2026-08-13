@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🎓 BS Computer Science gradute at National University
+- 🎓 BS Computer Science graduate at National University
 - 💻 Focused on React, Django, and AI/ML
 - 🚀 Building full-stack applications and exploring system design
 - 🌱 Currently sharpening skills in clean architecture and scalable systems
@@ -39,7 +39,7 @@
 ## Featured Projects
 
 ### 🚖 Tricycle Franchise Tracker
-<img src="assets/tricycle-franchise-tracker.png" width="100%" alt="Tricycle Franchise Tracker preview" />
+<img src="assets/franchiseBG.png" width="100%" alt="Tricycle Franchise Tracker preview" />
 
 Real-time driver franchise and license monitoring system for LGU operations.
 `PHP` `MySQL` `JavaScript`
@@ -48,7 +48,7 @@ Real-time driver franchise and license monitoring system for LGU operations.
 <br/>
 
 ### 📜 Cuenca Legislative Tracker
-<img src="assets/cuenca-legislative-tracker.png" width="100%" alt="Cuenca Legislative Tracker preview" />
+<img src="assets/sbBackground.png" width="100%" alt="Cuenca Legislative Tracker preview" />
 
 Digital platform for tracking ordinances and resolutions with secure cloud storage.
 `React` `Firebase` `Supabase` `JavaScript`
@@ -57,7 +57,7 @@ Digital platform for tracking ordinances and resolutions with secure cloud stora
 <br/>
 
 ### 💼 Digital Works
-<img src="assets/digital-works.png" width="100%" alt="Digital Works preview" />
+<img src="assets/freelanceWEB.png" width="100%" alt="Digital Works preview" />
 
 Freelance web and systems development portfolio site — showcasing custom web applications and business systems built for clients.
 `React` `JavaScript` `CSS3`
@@ -66,7 +66,7 @@ Freelance web and systems development portfolio site — showcasing custom web a
 <br/>
 
 ### 🌱 NPK Deficiency Detector
-<img src="assets/npknows.png" width="100%" alt="NPKnows preview" />
+<img src="assets/ampalaya.jpg" width="100%" alt="NPKnows preview" />
 
 CNN-based classifier for identifying nutrient deficiencies in bitter gourd plants, integrated with IoT hardware.
 `Python` `TensorFlow` `IoT` `CNN`
@@ -75,7 +75,7 @@ CNN-based classifier for identifying nutrient deficiencies in bitter gourd plant
 <br/>
 
 ### ☕ Leaf It Up to Me
-<img src="assets/leaf-it-up-to-me.png" width="100%" alt="Leaf It Up to Me preview" />
+<img src="assets/leaf.jpg" width="100%" alt="Leaf It Up to Me preview" />
 
 Coffee leaf disease detector built on a MobileNetV2 CNN architecture.
 `Python` `TensorFlow` `MobileNetV2`
@@ -84,7 +84,7 @@ Coffee leaf disease detector built on a MobileNetV2 CNN architecture.
 <br/>
 
 ### 🎓 Personal Portfolio
-<img src="assets/portfolio.png" width="100%" alt="Personal Portfolio preview" />
+<img src="assets/myPortfolio.png" width="100%" alt="Personal Portfolio preview" />
 
 Personal portfolio website showcasing projects and engineering experience.
 `React` `CSS3` `HTML5` `JavaScript`
@@ -93,7 +93,7 @@ Personal portfolio website showcasing projects and engineering experience.
 <br/>
 
 ### 🎓 NU Lipa Admission System
-<img src="assets/nu-lipa-admission.png" width="100%" alt="NU Lipa Admission System preview" />
+<img src="assets/NU_Admission.jpg" width="100%" alt="NU Lipa Admission System preview" />
 
 Django-based student admission system with planned ML integration for decision support.
 `Django` `Python` `JavaScript` `TensorFlow`
