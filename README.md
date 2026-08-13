@@ -23,8 +23,8 @@ I'm a **Computer Science graduate focused on web development and system developm
 
 I enjoy developing complete systems — from designing responsive user interfaces and building frontend applications to developing backend functionality, databases, APIs, and system workflows.
 
-* 🎓 **BS Computer Science Graduate** — National University
-* 💻 Focused on **Full-Stack Web Development**
+* 🎓 **BS Computer Science Graduate** — National University - Lipa
+* 💻 Focused on ** Web & System Development**
 * 🖥️ Experienced in developing **Business & Management Systems**
 * ⚙️ Interested in **Backend Development & System Architecture**
 * 🗄️ Experienced with **MySQL, Firebase & Supabase**
