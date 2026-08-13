@@ -6,12 +6,12 @@
 
 Building practical, scalable, and user-focused digital solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ptrkportfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickeva)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ptrkrmseva)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ptrkeva)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ptrkportfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/patrickeva)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/ptrkrmseva)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_ptrkeva)
 
-📍 Cuenca, Batangas, Philippines &nbsp; • &nbsp; 🌏 Open to Remote · Hybrid · On-site
+📍 Cuenca, Batangas, Philippines   •   🌏 Open to Remote · Hybrid · On-site
 
 </div>
 
@@ -23,12 +23,12 @@ I'm a **Computer Science graduate** with a strong interest in software engineeri
 
 I enjoy transforming ideas into functional systems — from government and business management platforms to machine learning applications.
 
-- 🎓 **BS Computer Science Graduate** — National University
-- 💻 Focused on **Full-Stack Web Development**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🎨 Passionate about **UI/UX and modern web interfaces**
-- 🚀 Building practical systems with real-world applications
-- 🌱 Continuously improving software architecture and development practices
+* 🎓 **BS Computer Science Graduate** — National University
+* 💻 Focused on **Full-Stack Web Development**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🎨 Passionate about **UI/UX and modern web interfaces**
+* 🚀 Building practical systems with real-world applications
+* 🌱 Continuously improving software architecture and development practices
 
 ---
 
@@ -36,47 +36,47 @@ I enjoy transforming ideas into functional systems — from government and busin
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
 
 ### Backend & Frameworks
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
 
 ### Database & Cloud
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
 ### AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
@@ -193,9 +193,11 @@ Django-based **student admission platform** designed with future machine learnin
 
 <a href="https://ptrkportfolio.vercel.app/">
 
-<img src="images/myPortfolio.png" width="750" alt="Patrick Eva Personal Portfolio">
+<img src="images/myPortfolio.png" width="600" alt="Patrick Eva Personal Portfolio">
 
 </a>
+
+<br>
 
 ### Explore my portfolio
 
@@ -211,17 +213,41 @@ A personal website showcasing my projects, technical experience, skills, and dev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patrickeva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="170" alt="Patrick Eva GitHub Stats">
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickeva&layout=compact&langs_count=8&hide_border=true" height="170" alt="Patrick Eva Top Languages">
+<td width="50%" align="center">
 
-</div>
+### 📈 GitHub Stats
+
+<img src="https://github-stats-extended.vercel.app/api?username=patrickeva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" width="100%" alt="Patrick Eva GitHub Statistics">
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 Top Languages
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=patrickeva&layout=compact&langs_count=8&hide_border=true" width="100%" alt="Patrick Eva Top Languages">
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+### 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=patrickeva&hide_border=true" height="170" alt="Patrick Eva GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=patrickeva&hide_border=true" width="500" alt="Patrick Eva GitHub Streak">
+
+<br><br>
+
+<a href="https://github.com/patrickeva">
+
+<img src="https://img.shields.io/badge/View_Full_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile">
+
+</a>
 
 </div>
 
@@ -231,9 +257,13 @@ A personal website showcasing my projects, technical experience, skills, and dev
 
 <div align="center">
 
+Check out more of my repositories, experiments, and development work.
+
+<br>
+
 <a href="https://github.com/patrickeva?tab=repositories">
 
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
 
 </a>
 
@@ -257,8 +287,12 @@ I'm open to **collaboration, software engineering opportunities, freelance proje
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://facebook.com/ptrkrmseva">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://instagram.com/_ptrkeva">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
