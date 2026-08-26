@@ -8,7 +8,7 @@ Building practical web applications and reliable systems that solve real-world p
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ptrkportfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/patrickeva)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/ptrkrmseva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/patrickeva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_ptrkeva)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=patrickeva&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
