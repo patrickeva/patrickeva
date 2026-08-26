@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineer · Full-Stack Web & System Developer
+###  Web & System Developer
 
 Building practical web applications and reliable systems that solve real-world problems.
 
