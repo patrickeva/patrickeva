@@ -11,7 +11,9 @@ Building practical web applications and reliable systems that solve real-world p
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/ptrkrmseva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_ptrkeva)
 
-📍 Cuenca, Batangas, Philippines   •   🌏 Open to Remote · Hybrid · On-site
+![Profile Views](https://komarev.com/ghpvc/?username=patrickeva&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+📍 Cuenca, Batangas, Philippines   •   🌏 Open to Remote · Hybrid · On-site
 
 </div>
 
@@ -332,7 +334,7 @@ A personal website showcasing my **projects, technical skills, experience, and d
 | ⚙️ **Backend Development** | APIs, authentication, databases, and application logic |
 | 🗄️ **Database Systems**   | MySQL, Firebase, and Supabase                          |
 | 🎨 **UI/UX**               | Clean, responsive, and user-friendly interfaces        |
-| 🚀 **Deployment**          | GitHub, Vercel, and cloud-based applications           |
+| 🚀 **Deployment**          | GitHub, Vercel, and cloud-based applications            |
 
 </div>
 
