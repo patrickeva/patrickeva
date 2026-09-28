@@ -108,174 +108,187 @@ I enjoy developing complete systems — from designing responsive user interface
 
 My projects primarily focus on **web development, system development, database-driven applications, and practical software solutions**.
 
+<br>
+
 <div align="center">
+
+<table>
+<tr>
+<td colspan="2" align="center">
+
+<img src="BusTracking.png" width="100%" alt="BMTC Minibus Tracker">
+
+## 🚌 BMTC Minibus Tracker
+
+**Fleet Management System · Real-Time GPS Tracking**
+
+A real-time GPS fleet tracking system for a transport cooperative operating the **SM Lemery ↔ SM Lipa** route.<br>
+Passengers follow live minibus locations on a public map — no app or sign-up required —<br>
+while drivers use a native Android app that keeps transmitting even with the screen off.
+
+<table>
+<tr>
+<td align="center">📍<br><b>Live GPS Map</b><br><sub>Real-time bus positions</sub></td>
+<td align="center">📱<br><b>Native Driver App</b><br><sub>Background tracking</sub></td>
+<td align="center">🛣️<br><b>Route Progress</b><br><sub>Trip % per unit</sub></td>
+<td align="center">🌙<br><b>Street · Satellite · Dark</b><br><sub>Map & theme toggles</sub></td>
+</tr>
+</table>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+<a href="https://minibus-tracker.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-1E40AF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/patrickeva/minibus-tracker"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🖥️ Web & System Development
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🚌 BMTC Minibus Tracker
-
-<img src="images/BusTracking.png" width="100%" alt="BMTC Minibus Tracker">
-
-**Fleet Management System · Real-Time GPS Tracking**
-
-A real-time GPS fleet tracking system for a transport cooperative on the SM Lemery–SM Lipa route. Passengers follow live minibus locations on a public map with no app or sign-up required, while drivers use a native Android app that keeps transmitting even with the screen off.
-
-**Focus:** `React` `Supabase` `PostgreSQL` `Capacitor` `Java` `Leaflet`
-
-[Repository](https://github.com/patrickeva/minibus-tracker) · [Live Demo](https://minibus-tracker.pages.dev/)
-
-</td>
-
-<td width="50%" valign="top">
+<img src="images/sbBackground.png" width="100%" alt="Cuenca Legislative Tracker">
 
 ### 📜 Cuenca Legislative Tracker
-
-<img src="images/sbBackground.png" width="100%" alt="Cuenca Legislative Tracker">
 
 **Legislative Document Management System**
 
 A digital platform for managing ordinances, resolutions, and legislative documents with cloud-based data storage.
 
-**Focus:** `Web Development` `React` `Firebase` `Supabase` `JavaScript`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[Repository](https://github.com/patrickeva/sb-cuenca-docsys) · [Live Demo](https://sb-cuenca-docsys.vercel.app/login)
+<a href="https://sb-cuenca-docsys.vercel.app/login"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/patrickeva/sb-cuenca-docsys"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
-
-### 🚖 Tricycle Franchise Tracker
 
 <img src="images/franchiseBG.png" width="100%" alt="Tricycle Franchise Tracker">
 
+### 🚖 Tricycle Franchise Tracker
+
 **Web-based LGU Management System**
 
-A system designed to help manage and monitor tricycle franchise records, driver information, licenses, and operational data.
+Manages and monitors tricycle franchise records, driver information, licenses, and operational data.
 
-**Focus:** `System Development` `PHP` `MySQL` `JavaScript`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[Repository](https://github.com/patrickeva/Tric-Franchise-Tracker) · [Live Demo](https://tric-franchise-tracker.vercel.app/)
+<a href="https://tric-franchise-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/patrickeva/Tric-Franchise-Tracker"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+<tr>
 
-### 💼 Digital Works
+<td width="50%" valign="top">
 
 <img src="images/freelanceWEB.png" width="100%" alt="Digital Works">
 
+### 💼 Digital Works
+
 **Web & System Development Portfolio**
 
-A development platform showcasing websites, custom web applications, and business systems created for clients and organizations.
+Showcases websites, custom web applications, and business systems created for clients and organizations.
 
-**Focus:** `Web Development` `React` `JavaScript` `UI/UX`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-[Repository](https://github.com/patrickeva/patrick-FWeb) · [Live Demo](https://patrick-f-web.vercel.app/)
+<a href="https://patrick-f-web.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/patrickeva/patrick-FWeb"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
-
-### 🎓 NU Lipa Admission System
 
 <img src="images/NU_Admission.jpg" width="100%" alt="NU Lipa Admission System">
 
+### 🎓 NU Lipa Admission System
+
 **Student Admission Management System**
 
-A Django-based admission platform designed to streamline student application and admission workflows.
+A Django-based platform that streamlines student application and admission workflows.
 
-**Focus:** `System Development` `Django` `Python` `JavaScript`
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[Repository](https://github.com/itzjmbruhhh/NU_Admission)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-<img src="images/myPortfolio.png" width="100%" alt="Patrick Eva Personal Portfolio">
-
-**Developer Portfolio Website**
-
-A responsive personal portfolio showcasing my projects, skills, experience, and development journey.
-
-**Focus:** `Web Development` `React` `JavaScript` `UI/UX`
-
-[Repository](https://github.com/patrickeva/ptrk_portfolio) · [Live Demo](https://ptrkportfolio.vercel.app/)
+<a href="https://github.com/itzjmbruhhh/NU_Admission"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌱 NPK Deficiency Detector
-
-<img src="images/ampalaya.jpg" width="100%" alt="NPK Deficiency Detector">
-
-**Machine Learning / IoT Project**
-
-An academic machine learning project exploring image classification for identifying nutrient deficiencies in bitter gourd leaves.
-
-**Focus:** `Python` `TensorFlow` `CNN` `IoT`
-
-[Repository](https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT) · [Live Demo](https://npknows.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ Leaf It Up to Me
-
-<img src="images/leaf.jpg" width="100%" alt="Leaf It Up to Me">
-
-**Coffee Leaf Disease Classification**
-
-An academic machine learning project exploring CNN-based classification of coffee leaf diseases using MobileNetV2.
-
-**Focus:** `Python` `TensorFlow` `MobileNetV2`
-
-[Repository](https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-### 🔎 More Projects
-
-Explore my GitHub repositories for additional experiments, academic projects, and software development work.
+</table>
 
 <br>
 
-<a href="https://github.com/patrickeva?tab=repositories">
+### 🤖 Machine Learning
 
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
+<table>
+<tr>
 
-</a>
+<td width="50%" valign="top">
+
+<img src="images/ampalaya.jpg" width="100%" alt="NPK Deficiency Detector">
+
+### 🌱 NPK Deficiency Detector
+
+**Machine Learning / IoT Project**
+
+Image classification for identifying nutrient deficiencies in bitter gourd leaves.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-8B5CF6?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-0EA5E9?style=flat-square)
+
+<a href="https://npknows.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier_IoT"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="images/leaf.jpg" width="100%" alt="Leaf It Up to Me">
+
+### ☕ Leaf It Up to Me
+
+**Coffee Leaf Disease Classification**
+
+CNN-based classification of coffee leaf diseases using MobileNetV2.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-8B5CF6?style=flat-square)
+
+<a href="https://github.com/itzjmbruhhh/coffee_leaf_diseases_classifier"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 
 </td>
 
 </tr>
-
 </table>
+
+<br>
+
+<a href="https://github.com/patrickeva?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"></a>
 
 </div>
 
@@ -299,11 +312,8 @@ A personal website showcasing my **projects, technical skills, experience, and d
 
 <br>
 
-<a href="https://ptrkportfolio.vercel.app/">
-
-<img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
-
-</a>
+<a href="https://ptrkportfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"></a>
+<a href="https://github.com/patrickeva/ptrk_portfolio"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repository"></a>
 
 </div>
 
@@ -343,11 +353,7 @@ A personal website showcasing my **projects, technical skills, experience, and d
 
 <br><br>
 
-<a href="https://github.com/patrickeva">
-
-<img src="https://img.shields.io/badge/View_Full_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile">
-
-</a>
+<a href="https://github.com/patrickeva"><img src="https://img.shields.io/badge/View_Full_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile"></a>
 
 </div>
 
@@ -379,21 +385,10 @@ I'm open to **software engineering opportunities, web development projects, syst
 
 <br>
 
-<a href="https://ptrkportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="https://github.com/patrickeva">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://facebook.com/ptrkrmseva">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://instagram.com/_ptrkeva">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="https://ptrkportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/patrickeva"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://facebook.com/ptrkrmseva"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/_ptrkeva"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <br><br>
 
