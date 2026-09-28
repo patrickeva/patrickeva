@@ -117,7 +117,7 @@ My projects primarily focus on **web development, system development, database-d
 
 ### 🚌 BMTC Minibus Tracker
 
-<img src="images/minibusBG.png" width="100%" alt="BMTC Minibus Tracker">
+<img src="images/BusTracking.png" width="100%" alt="BMTC Minibus Tracker">
 
 **Fleet Management System · Real-Time GPS Tracking**
 
