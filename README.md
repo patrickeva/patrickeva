@@ -142,7 +142,7 @@ while drivers use a native Android app that keeps transmitting even with the scr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-<a href="https://minibus-tracker.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-1E40AF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Live Demo"></a>
+<a href="https://www.bmtctracker.com/"><img src="https://img.shields.io/badge/Live_Demo-1E40AF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Live Demo"></a>
 <a href="https://github.com/patrickeva/minibus-tracker"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 
 </td>
